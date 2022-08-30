@@ -1,5 +1,5 @@
 
 Program la;
 Begin
-  Writeln ('lacasa');
+  Writeln ('lacasaaaaaaaaaaaaaaaa');
 End.
